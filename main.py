@@ -50,7 +50,7 @@ for s in scrm:
     cube = faces(s)
     all_fac.append(cube)
     
-#print(all_fac)
+print(all_fac)
 
 print("Enter the patter on side of one of the cubes in this order:")
 print("UL UM UR ML MM(center) MR DL DM DR (Up,Down,Left,Right,Middle)") 
